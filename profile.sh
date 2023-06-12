@@ -3,3 +3,4 @@
 alias git='~/wsl-scripts/git.sh'
 alias npm='~/wsl-scripts/npm.sh'
 alias node='~/wsl-scripts/node.sh'
+alias ng='~/wsl-scripts/ng.sh'
